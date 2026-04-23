@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCuhkxbk27LNHg2cNZ-0-h1XjciPHzFd50</string>
+	<key>GCM_SENDER_ID</key>
+	<string>784459336506</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Nando.FP-Studius</string>
+	<key>PROJECT_ID</key>
+	<string>studius-d0754</string>
+	<key>STORAGE_BUCKET</key>
+	<string>studius-d0754.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:784459336506:ios:9f82582cb15ba74da5de03</string>
+</dict>
+</plist>

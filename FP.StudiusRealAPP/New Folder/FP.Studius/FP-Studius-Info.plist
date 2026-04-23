@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>STUDIUS uses the microphone for voice commands</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>STUDIUS uses speech recognition to understand your voice</string>
+	<key>GEMINI_API_KEY</key>
+	<string>AIzaSyCKEXvRBpXJEwRI7geOQyh7mFjLHFuwFC8</string>
+	<key>GEMINI_MODEL</key>
+	<string>gemini-2.5-flash</string>
+</dict>
+</plist>
