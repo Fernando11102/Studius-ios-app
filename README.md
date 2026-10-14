@@ -18,6 +18,7 @@ The application was designed as a digital companion for students and includes an
 - Swift
 - SwiftUI
 - Xcode
+- Firebase virtual environment
 - API Integration
 - iOS Development
 
